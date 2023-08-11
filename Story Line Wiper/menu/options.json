@@ -1,0 +1,16 @@
+{
+	"menu_id": "slw_menu_id",
+	"parent_menu_id": "blt_options",
+	"title": "slw_options_menu_title",
+	"description": "slw_options_menu_desc",
+	"area_bg": "half",
+	"items": [
+		{
+			"type": "button",
+			"id": "slw_wipe_story",
+			"title": "slw_wipe_story_title",
+			"description": "slw_wipe_story_desc",
+			"callback": "slw_callback_button"
+		}
+	]
+}

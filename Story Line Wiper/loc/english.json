@@ -1,0 +1,10 @@
+{
+	"slw_options_menu_title" : "Story Line Wiper",
+	
+	"slw_wipe_story_title" : "Wipe Story Line",
+	"slw_wipe_story_desc" : "Completely wipes your story line progress",
+	
+	"slw_dialog_title" : "Story Line Wiper",
+	"slw_dialog_wipe_confirm" : "Are you sure you want to completely reset your story line progress?\n\nWarning: This action cannot be undone",
+	"slw_dialog_wipe_done" : "Story line progress has been wiped"
+}
